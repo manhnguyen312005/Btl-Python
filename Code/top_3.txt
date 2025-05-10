@@ -1,0 +1,60 @@
+Statistic: Gls
+Top 3:
+  Mohamed Salah: 28.0
+  Alexander Isak: 23.0
+  Erling Haaland: 21.0
+Bottom 3:
+  İlkay Gündoğan: 0.0
+  Antony: 0.0
+  Antonín Kinský: 0.0
+
+Statistic: xG
+Top 3:
+  Mohamed Salah: 24.0
+  Erling Haaland: 20.8
+  Alexander Isak: 19.9
+Bottom 3:
+  Łukasz Fabiański: 0.0
+  Aaron Ramsdale: 0.0
+  Abdukodir Khusanov: 0.0
+
+Statistic: Sh
+Top 3:
+  Nathan Collins: 51.0
+  Dara O'Shea: 47.0
+  Murillo: 44.0
+Bottom 3:
+  Łukasz Fabiański: 0.0
+  Alex Palmer: 0.0
+  Alejandro Garnacho: 0.0
+
+Statistic: Tkl
+Top 3:
+  Idrissa Gana Gueye: 124.0
+  Daniel Muñoz: 113.0
+  João Gomes: 105.0
+Bottom 3:
+  Łukasz Fabiański: 0.0
+  Aaron Ramsdale: 0.0
+  Bart Verbruggen: 0.0
+
+Statistic: Int
+Top 3:
+  Aaron Wan-Bissaka: 60.0
+  Ryan Gravenberch: 57.0
+  Antonee Robinson: 57.0
+Bottom 3:
+  Arijanet Muric: 0.0
+  Antonín Kinský: 0.0
+  Neto: 0.0
+
+Statistic: Blocks
+Top 3:
+  Nathan Collins: 71.0
+  Murillo: 67.0
+  Tyrick Mitchell: 62.0
+Bottom 3:
+  Łukasz Fabiański: 0.0
+  Aaron Ramsdale: 0.0
+  Tyrique George: 0.0
+

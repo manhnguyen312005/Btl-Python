@@ -1,0 +1,10 @@
+Teams with the highest value per metric:
+Gls: Liverpool (28.0)
+xG: Liverpool (24.0)
+Sh: Brentford (51.0)
+Tkl: Everton (124.0)
+Int: West Ham (60.0)
+Blocks: Brentford (71.0)
+
+Summary:
+Liverpool is the best team with 2 leading statistics.
